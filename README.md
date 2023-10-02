@@ -1,7 +1,6 @@
 <h1 align="center">Portifólio - Thaiane 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
-
+![Imagem do projeto finalizado]
 
 ---
 
